@@ -14,4 +14,3 @@ Intruksi :
 
 Edit Source Code :
 - Dev-C++
-- Code::Blocks
