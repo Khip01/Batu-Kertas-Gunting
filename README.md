@@ -11,7 +11,7 @@ Deskripsi :
 Bahasa Pemrograman : C++
 
 Intruksi : 
-- Clone repo ini ( git clone https://github.com/Khip01/Game_Batu-Kertas-Gunting ) 
+- Clone repo ini ( git clone https://github.com/Khip01/Batu-Kertas-Gunting ) 
 - Jalankan file berekstensi .exe
 
 Edit Source Code :
